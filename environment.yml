@@ -1,0 +1,13 @@
+name: space-app-env
+
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - opencv
+  - Pillow
+  - matplotlib
+  - seaborn
