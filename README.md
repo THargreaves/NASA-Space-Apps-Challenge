@@ -6,6 +6,11 @@
 - Determine changes in rainforest cover over time
 	- Think this is right? I was semi-in the call when it was being discussed
 
+## Commands
+- Any commands given below should be executed in a terminal emulator
+	- On Windows, this can be Command Prompt or Powershell
+	- On Mac, they call it Terminal
+
 ## Presenting the project
 - A [Jupyter Notebook](https://jupyter.org/) to demonstrate our model
 
@@ -25,6 +30,7 @@
 - Connecting this with a Jupyter Notebook
 	- Use `jupyter notebook` in the terminal to start this
 	- Since it is a dependency in our `conda` environment, it will have already been installed
+	- Then, navigate to the URL given after the command to interact with the notebook
 
 ## The `git` environment
 - If unfamiliar with `git`, read the `GIT_BEST_PRACTICE.md` file, which will give enough information for the day's use of `git`
