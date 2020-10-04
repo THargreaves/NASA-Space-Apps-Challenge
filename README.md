@@ -1,7 +1,6 @@
 # NASA-Space-Apps-Challenge
 ## Prerequisities
 - A Conda installation: https://docs.conda.io/en/latest/miniconda.html
-- A Jupyter Notebook installation: https://github.com/jupyter/notebook
 
 ## Our challenge
 - Determine changes in rainforest cover over time
@@ -25,6 +24,7 @@
 	- Activate this environment using `conda activate space-app-env` and run `python -m ipykernel install --user --name space-app-env --display-name "Space App Environment"`
 - Connecting this with a Jupyter Notebook
 	- Use `jupyter notebook` in the terminal to start this
+	- Since it is a dependency in our `conda` environment, it will have already been installed
 
 ## The `git` environment
 - If unfamiliar with `git`, read the `GIT_BEST_PRACTICE.md` file, which will give enough information for the day's use of `git`
